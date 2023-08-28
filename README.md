@@ -4,4 +4,4 @@
 
 <img src="https://github.com/LeonardoServin/Informatica/blob/main/Images/uaml.jpg" width="33%"/>
 
-<video src="https://www.youtube.com/watch?v=0tCx11ITaiY" width="31%"/>
+<video src="https://youtu.be/0tCx11ITaiY?si=BEMbtKZ5GWpVs2VP" width="31%"/>
