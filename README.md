@@ -6,5 +6,6 @@
 
  The Clash, Police On My Back: https://youtu.be/0tCx11ITaiY?si=Sxo9fONtjC-cnCqX
 
- 
 Telegram LST: (https://Servin031.t.me)
+
+{\theta_1\:=100}
