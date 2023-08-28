@@ -8,4 +8,4 @@
 
 Telegram LST: (https://Servin031.t.me)
 
-{\theta_1\:=100}
+$\theta_1\:=100$
