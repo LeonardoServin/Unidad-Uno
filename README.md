@@ -9,3 +9,5 @@
 Telegram LST: (https://Servin031.t.me)
 
 $\theta_1\:=100$
+
+$frac{-b\pm\sqrt\{b^2-4ac}$
