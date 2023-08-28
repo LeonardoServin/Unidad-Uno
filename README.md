@@ -4,4 +4,4 @@
 
 <img src="https://github.com/LeonardoServin/Informatica/blob/main/Images/uaml.jpg" width="33%"/>
 
-Una cancion [The Clash] (https://youtu.be/0tCx11ITaiY?si=Sxo9fONtjC-cnCqX)
+Una cancion de The Clash: (https://youtu.be/0tCx11ITaiY?si=Sxo9fONtjC-cnCqX)
